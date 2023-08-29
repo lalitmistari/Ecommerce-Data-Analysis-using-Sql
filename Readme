@@ -1,0 +1,3 @@
+•	Picked the data from Kaggle, and first tried to understand the different tables and their terminology. Crafted clear picture of Ecommerce information through Data modelling.
+•	Using queries created tables in Postgres and then added data in respective table to analyse each column of table.
+•	Created temporary tables by combining methods like Aggregated functions, Group by, Order by, and joins used these temp tables to derives the ultimate insights
